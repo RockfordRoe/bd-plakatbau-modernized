@@ -1,2 +1,2 @@
 # bd-plakatbau-modernized
-A re-encoding of Büro Destruct's Plakatbau font for usage in modern computers
+This is a quick and dirty re-encoding of BD Plakatbau done in fontforge, made famous by Radiohead in "Kid A" and "Amnesiac" 
